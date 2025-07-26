@@ -15,25 +15,11 @@
 
 ---
 
-### 🔨 Tech Stack
+## <img src="https://img.shields.io/badge/-Tech_Stack-4EC5D4?style=flat&logo=visual-studio-code&logoColor=white" alt="Tech" />
 
-#### 💻 Programming Languages  
-`Java` `JavaScript` `Dart` `Python`
-
-#### 🌐 Frontend  
-`HTML` `CSS` `JavaScript` `Bootstrap` `React`
-
-#### 📱 Mobile  
-`Flutter` `Dart`
-
-#### 🛠 Backend & DB  
-`Firebase` `MySQL`
-
-#### 📚 Concepts  
-`Object-Oriented Programming` `Database Programming`
-
-#### 🔧 Tools & DevOps  
-`Git` `GitHub` `VS Code`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,python,dart,flutter,react,html,css,firebase,mysql,git,github&theme=dark&perline=7" width="90%" style="margin: 2px 0;" />
+</p>
 
 ---
 
