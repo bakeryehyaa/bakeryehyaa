@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MohamadBaker Yehya</h1>
+<h1 align="center">Hi, I'm MohamadBaker Yehya 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | ML Explorer</h3>
 
 <p align="center">Senior Computer Science student passionate about building intuitive web and mobile applications. I enjoy solving real-world problems through clean code, and I’m continuously learning about backend systems, databases, and machine learning.</p>
@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,react,nodejs,python,tensorflow,dart,flutter,firebase,git,github,ubuntu&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,react,nodejs,python,tensorflow,dart,flutter,firebase,git,github,ubuntu,html,css,bootstrap,vscode,androidstudio&theme=dark&perline=15)](https://skillicons.dev)
 
 ---
 
