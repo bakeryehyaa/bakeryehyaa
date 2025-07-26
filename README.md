@@ -15,11 +15,9 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-Tech_Stack-4EC5D4?style=flat&logo=visual-studio-code&logoColor=white" alt="Tech" />
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,dart,flutter,react,html,css,firebase,mysql,git,github&theme=dark&perline=7" width="90%" style="margin: 2px 0;" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,react,nodejs,python,tensorflow,dart,flutter,firebase,git,github,ubuntu&theme=dark&perline=15)](https://skillicons.dev)
 
 ---
 
