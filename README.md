@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MohamadBaker Yehya</h1>
-<h3 align="center">🚀 Full Stack Developer | Flutter Enthusiast | ML Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | ML Explorer</h3>
 
 <p align="center">Senior Computer Science student passionate about building intuitive web and mobile applications. I enjoy solving real-world problems through clean code, and I’m continuously learning about backend systems, databases, and machine learning.</p>
 
@@ -39,8 +39,7 @@
 
 ### 🧠 Currently Learning
 
-- Advanced Flutter techniques and clean architecture  
-- Firebase Authentication and Firestore  
+- Front End Development  using React 
 - Backend systems and scalable APIs  
 - Machine Learning with Python
 
