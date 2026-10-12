@@ -19,12 +19,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,dart,nodejs,express,fastapi,prisma,react,tailwind,vite,electron,tensorflow,postgres,mysql,sqlite,supabase,git,docker,linux,vscode&theme=dark&perline=11)](https://skillicons.dev)
 
-**Programming Languages:** Python, Java, TypeScript, JavaScript, Dart, SQL
-**Backend Development:** Node.js, Express.js, FastAPI, RESTful API design, Prisma ORM, JWT Authentication
-**Frontend & Mobile:** React, React Native, Tailwind CSS, Vite, Electron
-**AI & Machine Learning:** TensorFlow, Scikit-learn, RAG architectures, LLM integration, Computer Vision (MobileNetV2), ONNX
-**Databases:** PostgreSQL, MySQL, SQLite, Supabase, Vector Search (FAISS)
-**Tools & DevOps:** Git, Docker, Linux, Jupyter, VS Code, Data Visualization
+- **Programming Languages:** Python, Java, TypeScript, JavaScript, Dart, SQL
+- **Backend Development:** Node.js, Express.js, FastAPI, RESTful API design, Prisma ORM, JWT Authentication
+- **Frontend & Mobile:** React, React Native, Tailwind CSS, Vite, Electron
+- **AI & Machine Learning:** TensorFlow, Scikit-learn, RAG architectures, LLM integration, Computer Vision (MobileNetV2), ONNX
+- **Databases:** PostgreSQL, MySQL, SQLite, Supabase, Vector Search (FAISS)
+- **Tools & DevOps:** Git, Docker, Linux, Jupyter, VS Code, Data Visualization
 
 ---
 
