@@ -38,15 +38,19 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bakeryehyaa&show_icons=true&theme=default" alt="stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakeryehyaa" alt="streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakeryehyaa&layout=compact" alt="top-langs" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=bakeryehyaa&show_icons=true&theme=default" alt="stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakeryehyaa" alt="streak" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakeryehyaa&layout=compact" alt="top-langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
